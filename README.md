@@ -18,20 +18,9 @@ Dieses Portfolio ist vollständig statisch aufgebaut:
 - **JavaScript** (kleine Interaktionen, Mouse-Blob-Effect)
 - Keine Frameworks, kein Build-Prozess
 
-Dadurch kann es schnell auf **GitHub Pages** oder jedem beliebigen Static Host bereitgestellt werden.
-
-## Deployment (GitHub Pages)
-1. Repository forken oder klonen  
-2. Dateien ins Repo legen:  
-   `index.html`, `style.css`, `script.js`, `img/`, `Lebenslauf.pdf`  
-3. In den Repository-Einstellungen unter **Pages** →  
-   „Deploy from Branch“ → `main` auswählen  
-4. Portfolio ist live unter:  
-   `https://{dein-github-username}.github.io/{repo-name}/`
-
 ## Lizenz
 Dieses Portfolio-Projekt ist ausschließlich für persönliche Präsentationszwecke gedacht und steht nicht zur Wiederverwendung in kommerziellen Projekten.
 
 ---
 
-Wenn du Rückfragen hast oder eine bessere Version deiner README willst (z. B. englisch, kürzer, technischer), erstelle ich sie dir sofort.
+Wenn Sie Rückfragen haben oder eine bessere Version deiner README wollen (z. B. englisch, kürzer, technischer), erstelle ich es Ihnen sofort

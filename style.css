@@ -521,6 +521,10 @@ h3 { font-size: 1.25rem; margin-bottom: 0.5rem; }
     .desktop-only { display: none; }
     .burger-menu { display: flex; }
 
+    #blob {
+        display: none;
+    }
+
     .nav-links {
         position: absolute;
         top: 70px;
@@ -556,3 +560,4 @@ h3 { font-size: 1.25rem; margin-bottom: 0.5rem; }
         grid-template-columns: 1fr;
     }
 }
+
